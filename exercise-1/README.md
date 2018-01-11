@@ -10,3 +10,7 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+>Time exists in order that everything doesn’t happen all at once…and space exists so that it doesn’t all happen to you.
+
+[Susan Sontag quote](http://www.susansontag.com/)
